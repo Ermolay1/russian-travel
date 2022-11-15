@@ -1,0 +1,25 @@
+.poto-grid__image{
+    width: 100%;
+    height: 100%;
+
+}
+@media screen and (max-width: 1125px) {
+    .poto-grid__image{
+        width: 300px;
+        height: 225px;
+    }
+}
+@media  screen and (max-width: 896px) {
+    .poto-grid__image{
+        width: 352px;
+        height: 264px;
+    }
+}
+@media screen and (max-width: 544px) {
+    .poto-grid__image{
+        width: 288px;
+        height: 216px;
+        margin: 0;
+        padding: 0;
+    }
+}

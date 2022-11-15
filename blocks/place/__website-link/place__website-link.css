@@ -1,0 +1,17 @@
+.plase__website-link{
+    color: #ffffff;
+    max-width: 456px;
+    height: 22px;
+    margin-top: 12px;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    
+}
+.plase__website-link:hover{
+    color: rgb(128, 128, 128);
+    transition: 1s linear;
+    opacity: 0.8;
+  
+}

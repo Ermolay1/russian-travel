@@ -1,0 +1,23 @@
+.info__list{
+    max-width: 690px;
+    height: 90px;
+    margin-top: 33px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+    color: #ffffff;
+    list-style-type: none;
+    display: contents;
+}
+@media  screen and (max-width: 896px) {
+    .info__list{
+        width: 720px;
+    }
+}
+@media screen and (max-width: 544px) {
+    .info__list{
+        width: 288px;
+    }
+}
