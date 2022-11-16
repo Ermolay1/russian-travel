@@ -1,22 +1,5 @@
-.lang__link-ru{
-    color: #ffffff;
-    width: 30px;
-    height: 28px;
-}
-.lang__link-en{
-color: #ffffff;
-width: 30px;
-height: 28px;
+
+.lang-link{
 margin-left: 18px;
 text-decoration: none;
-}
-@media screen and (max-width: 544px) {
-    .lang__link-ru{
-        width: 22px;
-        height: 20px;
-    }
-    .lang__link-en{
-        width: 22px;
-        height: 20px;
-    }
 }

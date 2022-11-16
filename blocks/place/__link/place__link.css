@@ -1,4 +1,4 @@
-.plase__website-link{
+.place__link{
     color: #ffffff;
     max-width: 456px;
     height: 22px;
@@ -9,7 +9,7 @@
     line-height: 22px;
     
 }
-.plase__website-link:hover{
+.place__link:hover{
     color: rgb(128, 128, 128);
     transition: 1s linear;
     opacity: 0.8;

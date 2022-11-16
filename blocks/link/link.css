@@ -1,0 +1,11 @@
+.link{
+    color: #ffffff;
+    width: 30px;
+    height: 28px;
+}
+@media screen and (max-width: 544px) {
+    .link{
+        width: 22px;
+        height: 20px;
+    }
+}
