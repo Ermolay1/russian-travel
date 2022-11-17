@@ -5,7 +5,7 @@
     grid-template-rows: 1fr 1fr 1fr;
     gap: 1em;
     max-width: 1184px;
-    min-width:  671px;
+    width:  671px;
     margin-left: 48px;
     margin-right: 48px;
     margin-top: 92px;
