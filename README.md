@@ -9,4 +9,6 @@
 
 Кулишин Алексей
 
+Адрес страницы: https://ermolay1.github.io/russian-travel/
+
 для связи oookosmos.m@andex.ru
