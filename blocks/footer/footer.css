@@ -1,5 +1,6 @@
 .footer{
     max-width: 1184px;
+    min-width: 186px;
     height: 18px;
     margin-left: 48px;
     margin-right: 48px;
@@ -9,17 +10,17 @@
 }
 @media screen and (max-width: 1125px) {
     .footer{
-        width: 928px;
+        max-width: 928px;
     }
 }
 @media  screen and (max-width: 896px) {
     .footer{
-        width: 720px;
+        max-width: 720px;
     }
 }
 @media screen and (max-width: 544px) {
     .footer{
-        width: 186px;
+        max-width: 186px;
         height: 310px;
         display: grid;
         grid-template-rows: auto;
