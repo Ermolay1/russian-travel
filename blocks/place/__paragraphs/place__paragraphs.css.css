@@ -1,22 +1,21 @@
-.place__paragraph{
+
+place__paragraphs{
     grid-row: 2/3;
     grid-column: 2;
     min-height: 174px;
     min-width: 10px;
     max-width: 484px;
-    font-family: 'Inter';
-    font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 30px;
     margin-top: 0;
     padding-top: 0;
 }
-.place__paragraph-one{
+.place__paragraph:first-child{
    margin-top: 0;
     
 }
-.place__paragraph-two{
+.place__paragraph:last-child{
     margin-top: 26px;
 
 }

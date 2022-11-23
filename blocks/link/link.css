@@ -1,11 +1,11 @@
 .link{
     color: #ffffff;
-    width: 30px;
-    height: 28px;
+    max-width: 30px;
+    min-height: 28px;
 }
 @media screen and (max-width: 544px) {
     .link{
-        width: 22px;
-        height: 20px;
+        max-width: 22px;
+        min-height: 20px;
     }
 }

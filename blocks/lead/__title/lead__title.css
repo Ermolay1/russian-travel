@@ -1,7 +1,5 @@
 .lead__title{
     color: #ffffff;
-    font-family: 'Inter';
-    font-style: normal;
     font-weight: 900;
     font-size: 96px;
     line-height: 100px;
@@ -13,6 +11,7 @@
     margin-left: 132px;
     margin-right: 132px;
     text-align: center;
+    
 }
 @media screen and (max-width: 1125px) {
     .lead__title{
