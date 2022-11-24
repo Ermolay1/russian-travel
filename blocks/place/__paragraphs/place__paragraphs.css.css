@@ -1,5 +1,5 @@
 
-place__paragraphs{
+.place__paragraph{
     grid-row: 2/3;
     grid-column: 2;
     min-height: 174px;
