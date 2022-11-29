@@ -28,8 +28,6 @@
     .lead{
         max-width: 320px;
         min-height: 406px;
-        margin-left: -2px;
-        margin-right: -2px;
         margin-top: 48px;
     }
 }

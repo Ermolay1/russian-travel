@@ -3,10 +3,11 @@
     color: white;
     max-width: 57px;
     text-decoration: none;
-   
+    transition: opacity 0.8s;
     font-weight: 400;
     font-size: 16px;
     line-height: 18px;
+    margin-right: 18px;
   }
   
   @media screen and (max-width: 544px) {
@@ -16,3 +17,7 @@
     }
   
   }
+  .footer__link:hover{
+    opacity: 0.8;
+  
+}
