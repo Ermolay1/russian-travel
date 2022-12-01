@@ -15,6 +15,8 @@
       max-width: 928px;
       column-gap: 16px;
       row-gap: 45px;
+      margin-top: 80px;
+      margin-bottom: 0;
     }
   }
   @media screen and (max-width: 768px) {
@@ -22,20 +24,21 @@
       max-width: 720px;
       column-gap: 19px;
       row-gap: 42px;
-      margin: 0 auto 73px;
+  
     }
   }
   
   @media screen and (max-width: 620px) {
     .place {
       grid-template-columns: repeat(1, 1fr);
+      margin-top: 73px;
     }
   }
   
   
   @media screen and (max-width: 320px) {
     .place {
-      margin: 0 auto 50px;
+      margin-top: 64px;
       max-width: 320px;
       row-gap: 31px;
     }
