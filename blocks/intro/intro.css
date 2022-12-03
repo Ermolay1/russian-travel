@@ -1,17 +1,17 @@
-.info{
+.intro{
     width: 690px;
     margin-left: 148px;
     margin-top: 92px;
     margin-right: 442px;
 }
 @media screen and (max-width: 1125px) {
-    .info{
+    .intro{
         margin-left: 48px;
         margin-right: 286px;
     }
 }
 @media  screen and (max-width: 896px) {
-    .info{
+    .intro{
         max-width: 90%;
         margin-left: 24px;
         margin-right: 24px;
@@ -19,7 +19,7 @@
     }
 }
 @media screen and (max-width: 544px) {
-    .info{
+    .intro{
         max-width: 288px;
         margin-top: 64px;
         padding-top: 0;
