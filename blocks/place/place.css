@@ -32,7 +32,7 @@
       grid-template-columns: repeat(1, 1fr);
       margin-top: 64px;
       max-width: 320px;
-      row-gap: 50pxpx;
+      row-gap: 50px;
     }
   }
   
