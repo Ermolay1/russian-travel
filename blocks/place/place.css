@@ -30,15 +30,9 @@
   @media screen and (max-width: 620px) {
     .place {
       grid-template-columns: repeat(1, 1fr);
-    }
-  }
-  
-  
-  @media screen and (max-width: 320px) {
-    .place {
       margin-top: 64px;
       max-width: 320px;
-      row-gap: 31px;
+      row-gap: 50pxpx;
     }
   }
   
